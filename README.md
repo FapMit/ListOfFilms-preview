@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Превью для списка фильмов</h1>
+<h1 align="center">Превью для приложения "MovieApp"</h1>
 
 ###
 
