@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Превью для приложения "MovieApp"</h1>
+<h1 align="center">Превью для приложения <a href="https://fapmit.github.io/ListOfFilms-preview/" target="_blank" >"MovieApp"</a></h1>
 
 ###
 
